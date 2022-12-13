@@ -1,0 +1,33 @@
+form{
+    text-align: center;
+    width: 400px;
+    margin: 20px auto;
+}
+
+.campos{
+    width: 200px;
+    height: 20px;
+    border: 2px #A2AD91 solid;
+    border-radius: 10px;
+}
+
+.botoes{
+    text-transform: uppercase;
+    font-size: 15px;
+    border: none;
+    margin-top:  20px;
+    margin-left: 04px;
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+}
+.botoes:hover{
+    cursor: pointer;
+    color: #657254
+}
+
+.salvar, .cancelar{
+    color:#3a2d32;
+    background: #A2AD91;
+    border: 1px solid #3a2d32;
+}

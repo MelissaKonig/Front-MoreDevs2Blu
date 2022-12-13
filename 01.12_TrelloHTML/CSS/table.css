@@ -1,0 +1,24 @@
+#alunos{
+    width: 100%;
+    margin: auto;
+    border: 2px #3a2d32;
+    border-collapse: collapse;
+    text-align: center;
+    justify-content: space-between;
+}
+#alunos thead{
+    background: #A2AD91 ;
+    text-transform: uppercase;
+    font-size: 12px;
+    justify-content: space-between;
+}
+/*  */
+#alunos thead tr th{
+    padding: 6px 10px;
+    justify-content: space-between;
+}
+
+#alunos tbody tr th{
+    padding: 8px 10px;
+    justify-content: space-between;
+}
